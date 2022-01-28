@@ -1,5 +1,5 @@
 package = "lua-local-resolver"
-version = "1.0.0"
+version = "1.0.0-1"
 source = {
    url = "git://github.com/ysugimoto/lua-local-resolver"
 }
